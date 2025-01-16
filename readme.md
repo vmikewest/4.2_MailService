@@ -1,4 +1,4 @@
-# 4.3 Логирование
+# 4.3 Логирование + исключения
 
 <div id="ember7337" class="quiz-layout-head ember-view"><div class="step-wrapper">
   <div class="step-inner page-fragment">

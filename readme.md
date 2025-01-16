@@ -1,3 +1,5 @@
+# 4.3 Логирование
+
 <div id="ember7337" class="quiz-layout-head ember-view"><div class="step-wrapper">
   <div class="step-inner page-fragment">
     <div id="ember7338" class="html-content rich-text-viewer ember-view" data-processed=""><!----><span><p>Это задачка совмещает тренировку по материалу предыдущих двух модулей – необходимо разобраться и написать объект-ориентированный код и при этом коснуться свежих тем – исключений и логирования.<br></p><p>Дан набор классов, описывающих работу гипотетической почтовой системы.</p><p>Для начала рассмотрим код, описывающий все используемые сущности.<br></p><pre><code class="language-java hljs" data-highlighted="yes"><span class="hljs-comment">/*
